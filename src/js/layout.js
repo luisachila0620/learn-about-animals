@@ -2,6 +2,7 @@ import React from "react";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 import ScrollToTop from "./component/scrollToTop";
 
+import { Aquatic } from "./views/Aquatic";
 import { Birds } from "./views/Birds";
 import { Herbivores } from "./views/Herbivores";
 import { Carnivore } from "./views/Carnivore";
@@ -46,6 +47,9 @@ const Layout = () => {
 						</Route>
 						<Route exact path="/Birds">
 							<Birds />
+						</Route>
+						<Route exact path="/Aquatic">
+							<Aquatic />
 						</Route>
 						<Route>
 							<h1>Not found!</h1>
