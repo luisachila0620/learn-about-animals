@@ -78,7 +78,7 @@ export const Birds = () => (
 			</div>
 			<div className="card">
 				<img
-					src="https://lh3.googleusercontent.com/proxy/L089UqvR3XWehmgbwNoWcIymuBrM9U7JQbzZzhk7yGSnRJo5KbTqeALtBQRdeK_GjZqcZT6ytEJlwHbRxP6CMmt-gq6Y_dpGrDYn9vhWfBs_PZHRrS1uxOIntn8tGwEdtigkbSVBdlaSTTuio97iPruvqiVjDQFAN1eBYbwHddE2"
+					src="https://images.hdqwalls.com/download/cardinal-kd-1600x900.jpg"
 					className="card-img-top"
 					alt="..."
 				/>
