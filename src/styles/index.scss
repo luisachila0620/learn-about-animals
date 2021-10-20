@@ -125,6 +125,7 @@
     background-color: white;
     bottom: 900px;
     margin-top: 700px;
+    cursor: pointer;
 }
 .card-text{
     text-align: center;
@@ -138,6 +139,15 @@
 .card-group{
     cursor: pointer;
     box-shadow: white;
+}
+.col-whale{
+    cursor: pointer;
+}
+.col-dog{
+    cursor: pointer;
+}
+.col-croc{
+    cursor: pointer;
 }
 
 
