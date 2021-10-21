@@ -20,7 +20,7 @@ export const Contenido = () => (
 				<div className="col">
 					<div className="card h-100">
 						<img
-							src="https://cdn.mos.cms.futurecdn.net/YB6aQqKZBVjtt3PuDSkJKe.jpg"
+							src="https://m.economictimes.com/thumb/msid-70585794,width-1200,height-900,resizemode-4,imgsize-1098713/tiger-istock-871661426.jpg"
 							className="card-img-top"
 							alt="tiger"
 						/>
@@ -32,9 +32,9 @@ export const Contenido = () => (
 				<div className="col">
 					<div className="card h-100">
 						<img
-							src="https://i.pinimg.com/originals/72/c4/35/72c435f259c5729de934aeec5c045ca9.jpg"
+							src="https://bloximages.newyork1.vip.townnews.com/outtherecolorado.com/content/tncms/assets/v3/editorial/b/dc/bdc2a498-7123-545f-b8cb-3a2d4e5b8962/5eecdc4dd0261.image.jpg?crop=1115%2C836%2C69%2C0&resize=1200%2C900&order=crop%2Cresize"
 							className="card-img-top"
-							alt="caribu"
+							alt="ekl"
 						/>
 						<div className="card-body">
 							<h5 className="card-title">Herbivore</h5>
@@ -44,9 +44,9 @@ export const Contenido = () => (
 				<div className="col">
 					<div className="card h-100">
 						<img
-							src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/218877601/1800"
+							src="https://i.guim.co.uk/img/media/50e3c003bba1ffb20919962de7b54db12823fdd0/0_410_6144_3686/master/6144.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=79e24df74eec3c3643e3617c28958072"
 							className="card-img-top"
-							alt="hawk"
+							alt="owl"
 						/>
 						<div className="card-body">
 							<h5 className="card-title">Birds</h5>
@@ -68,7 +68,7 @@ export const Contenido = () => (
 				<div className="col-croc">
 					<div className="card h-100">
 						<img
-							src="https://greatbarrierreeftourscairns.com.au/wp-content/uploads/2021/03/saltwater-crocodile.jpg"
+							src="https://bloximages.newyork1.vip.townnews.com/fox10tv.com/content/tncms/assets/v3/editorial/e/a2/ea2cae14-96e9-11ea-be0d-b39c4d6023a5/5ebefa4babe14.image.jpg?crop=944%2C708%2C8%2C0&resize=1200%2C900&order=crop%2Cresize"
 							className=""
 							alt="crocodile"
 						/>
@@ -80,7 +80,7 @@ export const Contenido = () => (
 				<div className="col-dog">
 					<div className="card h-100">
 						<img
-							src="https://i.insider.com/5484d9d1eab8ea3017b17e29?width=600&format=jpeg&auto=webp"
+							src="https://i.guim.co.uk/img/media/684c9d087dab923db1ce4057903f03293b07deac/205_132_1915_1150/master/1915.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=f598594a7559c44214065b57f2cb8583"
 							className="card-img-top"
 							alt="dog"
 						/>

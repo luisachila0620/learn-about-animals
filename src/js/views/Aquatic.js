@@ -95,18 +95,14 @@ export const Aquatic = () => (
 		</div>
 		<div className="card-group">
 			<div className="card">
-				<img
-					src="https://www.desktopbackground.org/download/1600x900/2012/08/16/437871_sea-lions-seal-seals-lion-51-wallpapers_3487x2226_h.jpg"
-					className="card-img-top"
-					alt="..."
-				/>
+				<img src="https://images6.alphacoders.com/419/419848.jpg" className="card-img-top" alt="..." />
 				<div className="card-body">
 					<h5 className="card-title">seal</h5>
 				</div>
 			</div>
 			<div className="card">
 				<img
-					src="https://lh3.googleusercontent.com/proxy/KUKP-kC9ZxnFVb8THH6sUJDPiwPfstfDrzjHQb9qS_ikqIyZwOQ7KS8Umq48Wp_Mx-q4LQSg_1uq60K43RtOXKB1DknNQPTRyJ_tsA"
+					src="https://www.desktopbackground.org/download/1600x900/2012/11/27/490132_piranha-fish-photo-and-wallpaper-cute-piranha-fish-pictures_2398x1370_h.jpg"
 					className="card-img-top"
 					alt="..."
 				/>
@@ -116,7 +112,7 @@ export const Aquatic = () => (
 			</div>
 			<div className="card">
 				<img
-					src="https://d.newsweek.com/en/full/1787859/bull-shark.jpg?w=1600h=900q=88f=4c21910aa1485e3f72f5e279a6033772"
+					src="https://d.newsweek.com/en/full/1799781/bull-shark.jpg?w=1600&h=900&q=88&f=28a4f4e02e69247e33bbed09aef260d5"
 					alt="..."
 				/>
 				<div className="card-body">
