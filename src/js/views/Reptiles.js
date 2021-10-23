@@ -6,13 +6,13 @@ export const Reptiles = () => (
 		<div className="card">
 			<img src="https://images.hdqwalls.com/download/frog-60-1600x900.jpg" className="card-img-top" alt="..." />
 			<div className="card-body">
-				<h5 className="card-title">Frog</h5>
+				<h5 className="card-titles">Frog</h5>
 			</div>
 		</div>
 		<div className="card">
 			<img src="https://images7.alphacoders.com/425/425214.jpg" className="card-img-top" alt="..." />
 			<div className="card-body">
-				<h5 className="card-title">Green iguana</h5>
+				<h5 className="card-titles">Green iguana</h5>
 			</div>
 		</div>
 		<div className="card">
@@ -22,7 +22,7 @@ export const Reptiles = () => (
 				alt="..."
 			/>
 			<div className="card-body">
-				<h5 className="card-title">Snake</h5>
+				<h5 className="card-titles">Snake</h5>
 			</div>
 		</div>
 		<div className="card-group">
@@ -33,19 +33,19 @@ export const Reptiles = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Crocodile</h5>
+					<h5 className="card-titles">Crocodile</h5>
 				</div>
 			</div>
 			<div className="card">
 				<img src="https://www.wallpaperuse.com/wallp/10-107653_m.jpg" className="card-img-top" alt="..." />
 				<div className="card-body">
-					<h5 className="card-title">Chameleon</h5>
+					<h5 className="card-titles">Chameleon</h5>
 				</div>
 			</div>
 			<div className="card">
 				<img src="https://cdn.wallpapersafari.com/19/27/iECGdn.jpg" className="card-img-top" alt="..." />
 				<div className="card-body">
-					<h5 className="card-title">Green gecko</h5>
+					<h5 className="card-titles">Green gecko</h5>
 				</div>
 			</div>
 		</div>
@@ -57,7 +57,7 @@ export const Reptiles = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Agama lizard</h5>
+					<h5 className="card-titles">Agama lizard</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -67,17 +67,17 @@ export const Reptiles = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Giant turtle</h5>
+					<h5 className="card-titles">Giant turtle</h5>
 				</div>
 			</div>
 			<div className="card">
 				<img
-					src="https://lh3.googleusercontent.com/proxy/4MYGSaEMXVmov0zPs4jUqEDC2Hb1r5Fe65QVXotmFStoer63WpbXUFDm-aTk8BFtWgYjFjJjQg1vVOWKJ6J1kXxKYPeJ-Fr55u4t479hl4ILEZeB3W-M-jb3JTl3YrqIztNMTrMKkzWPYVOQ"
+					src="https://uhdwallpapers.org/uploads/converted/18/03/29/green-python-1600x900_64489-mm-90.jpg"
 					className="card-img-top"
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Python</h5>
+					<h5 className="card-titles">Python</h5>
 				</div>
 			</div>
 		</div>
@@ -85,7 +85,7 @@ export const Reptiles = () => (
 			<div className="card">
 				<img src="https://wallpaperaccess.com/full/2270922.jpg" className="card-img-top" alt="..." />
 				<div className="card-body">
-					<h5 className="card-title">Komodo dragon</h5>
+					<h5 className="card-titles">Komodo dragon</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -95,7 +95,7 @@ export const Reptiles = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">King cobra</h5>
+					<h5 className="card-titles">King cobra</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -104,7 +104,7 @@ export const Reptiles = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Gila monster</h5>
+					<h5 className="card-titles">Gila monster</h5>
 				</div>
 			</div>
 		</div>
@@ -116,13 +116,13 @@ export const Reptiles = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Tree monitor</h5>
+					<h5 className="card-titles">Tree monitor</h5>
 				</div>
 			</div>
 			<div className="card">
 				<img src="https://vistapointe.net/images/anaconda-1.jpg" className="card-img-top" alt="..." />
 				<div className="card-body">
-					<h5 className="card-title">anaconda</h5>
+					<h5 className="card-titles">anaconda</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -132,7 +132,7 @@ export const Reptiles = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Basilisk lizard</h5>
+					<h5 className="card-titles">Basilisk lizard</h5>
 				</div>
 			</div>
 		</div>
