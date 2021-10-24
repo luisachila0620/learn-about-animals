@@ -10,7 +10,7 @@ export const Birds = () => (
 				alt="..."
 			/>
 			<div className="card-body">
-				<h5 className="card-title">Eeagle</h5>
+				<h5 className="card-titles">Eeagle</h5>
 			</div>
 		</div>
 		<div className="card">
@@ -20,7 +20,7 @@ export const Birds = () => (
 				alt="..."
 			/>
 			<div className="card-body">
-				<h5 className="card-title">P hawk</h5>
+				<h5 className="card-titles">P hawk</h5>
 			</div>
 		</div>
 		<div className="card">
@@ -30,7 +30,7 @@ export const Birds = () => (
 				alt="..."
 			/>
 			<div className="card-body">
-				<h5 className="card-title">Dove</h5>
+				<h5 className="card-titles">Dove</h5>
 			</div>
 		</div>
 		<div className="card-group">
@@ -41,7 +41,7 @@ export const Birds = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">owl</h5>
+					<h5 className="card-titles">owl</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -51,7 +51,7 @@ export const Birds = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">blue jay</h5>
+					<h5 className="card-titles">blue jay</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -61,7 +61,7 @@ export const Birds = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">canarie</h5>
+					<h5 className="card-titles">canarie</h5>
 				</div>
 			</div>
 		</div>
@@ -73,7 +73,7 @@ export const Birds = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Parrot</h5>
+					<h5 className="card-titles">Parrot</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -83,13 +83,13 @@ export const Birds = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Cardinal</h5>
+					<h5 className="card-titles">Cardinal</h5>
 				</div>
 			</div>
 			<div className="card">
 				<img src="https://eskipaper.com/images/bird-pelican-1.jpg" className="card-img-top" alt="..." />
 				<div className="card-body">
-					<h5 className="card-title">Pelican</h5>
+					<h5 className="card-titles">Pelican</h5>
 				</div>
 			</div>
 		</div>
@@ -101,7 +101,7 @@ export const Birds = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Mandarin Duck</h5>
+					<h5 className="card-titles">Mandarin Duck</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -111,13 +111,13 @@ export const Birds = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Rooster</h5>
+					<h5 className="card-titles">Rooster</h5>
 				</div>
 			</div>
 			<div className="card">
 				<img src="https://img.wallpapersafari.com/desktop/1600/900/15/81/RS8DOm.jpg" alt="..." />
 				<div className="card-body">
-					<h5 className="card-title">Gold phiasant</h5>
+					<h5 className="card-titles">Gold phiasant</h5>
 				</div>
 			</div>
 		</div>
@@ -125,7 +125,7 @@ export const Birds = () => (
 			<div className="card">
 				<img src="https://vistapointe.net/images/ostrich-1.jpg" className="card-img-top" alt="..." />
 				<div className="card-body">
-					<h5 className="card-title">Ostrich</h5>
+					<h5 className="card-titles">Ostrich</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -135,7 +135,7 @@ export const Birds = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Seagull</h5>
+					<h5 className="card-titles">Seagull</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -145,7 +145,7 @@ export const Birds = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Crow</h5>
+					<h5 className="card-titles">Crow</h5>
 				</div>
 			</div>
 		</div>

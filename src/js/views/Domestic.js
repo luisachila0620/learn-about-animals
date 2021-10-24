@@ -10,7 +10,7 @@ export const Domestic = () => (
 				alt="..."
 			/>
 			<div className="card-body">
-				<h5 className="card-title">Dog</h5>
+				<h5 className="card-titles">Dog</h5>
 			</div>
 		</div>
 		<div className="card">
@@ -20,13 +20,13 @@ export const Domestic = () => (
 				alt="..."
 			/>
 			<div className="card-body">
-				<h5 className="card-title">Sheep</h5>
+				<h5 className="card-titles">Sheep</h5>
 			</div>
 		</div>
 		<div className="card">
 			<img src="https://cdn.wallpapersafari.com/44/57/3H2ux0.jpg" className="card-img-top" alt="..." />
 			<div className="card-body">
-				<h5 className="card-title">Cow</h5>
+				<h5 className="card-titles">Cow</h5>
 			</div>
 		</div>
 		<div className="card-group">
@@ -37,7 +37,7 @@ export const Domestic = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Goat</h5>
+					<h5 className="card-titles">Goat</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -47,7 +47,7 @@ export const Domestic = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Cat</h5>
+					<h5 className="card-titles">Cat</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -57,7 +57,7 @@ export const Domestic = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Rooster</h5>
+					<h5 className="card-titles">Rooster</h5>
 				</div>
 			</div>
 		</div>
@@ -69,7 +69,7 @@ export const Domestic = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">pig</h5>
+					<h5 className="card-titles">pig</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -79,7 +79,7 @@ export const Domestic = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Duck</h5>
+					<h5 className="card-titles">Duck</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -89,7 +89,7 @@ export const Domestic = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Horse</h5>
+					<h5 className="card-titles">Horse</h5>
 				</div>
 			</div>
 		</div>
@@ -101,7 +101,7 @@ export const Domestic = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Bull</h5>
+					<h5 className="card-titles">Bull</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -111,7 +111,7 @@ export const Domestic = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Donkey</h5>
+					<h5 className="card-titles">Donkey</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -121,7 +121,7 @@ export const Domestic = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Turkey</h5>
+					<h5 className="card-titles">Turkey</h5>
 				</div>
 			</div>
 		</div>
@@ -133,7 +133,7 @@ export const Domestic = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Llama</h5>
+					<h5 className="card-titles">Llama</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -143,7 +143,7 @@ export const Domestic = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Hamster</h5>
+					<h5 className="card-titles">Hamster</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -153,7 +153,7 @@ export const Domestic = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Gold fish</h5>
+					<h5 className="card-titles">Gold fish</h5>
 				</div>
 			</div>
 		</div>

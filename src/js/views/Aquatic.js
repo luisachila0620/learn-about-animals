@@ -10,7 +10,7 @@ export const Aquatic = () => (
 				alt="..."
 			/>
 			<div className="card-body">
-				<h5 className="card-title">shark</h5>
+				<h5 className="card-titles">shark</h5>
 			</div>
 		</div>
 		<div className="card">
@@ -20,7 +20,7 @@ export const Aquatic = () => (
 				alt="..."
 			/>
 			<div className="card-body">
-				<h5 className="card-title">blue whale</h5>
+				<h5 className="card-titles">blue whale</h5>
 			</div>
 		</div>
 		<div className="card">
@@ -30,7 +30,7 @@ export const Aquatic = () => (
 				alt="..."
 			/>
 			<div className="card-body">
-				<h5 className="card-title">killer whale</h5>
+				<h5 className="card-titles">killer whale</h5>
 			</div>
 		</div>
 		<div className="card-group">
@@ -41,7 +41,7 @@ export const Aquatic = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Barracuda</h5>
+					<h5 className="card-titles">Barracuda</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -51,13 +51,13 @@ export const Aquatic = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">red fish</h5>
+					<h5 className="card-titles">red fish</h5>
 				</div>
 			</div>
 			<div className="card">
 				<img src="https://eskipaper.com/images/manatee-1.jpg" className="card-img-top" alt="..." />
 				<div className="card-body">
-					<h5 className="card-title">manatie</h5>
+					<h5 className="card-titles">manatie</h5>
 				</div>
 			</div>
 		</div>
@@ -69,7 +69,7 @@ export const Aquatic = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">turtle</h5>
+					<h5 className="card-titles">turtle</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -79,7 +79,7 @@ export const Aquatic = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">manta ray</h5>
+					<h5 className="card-titles">manta ray</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -89,7 +89,7 @@ export const Aquatic = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">sea horse</h5>
+					<h5 className="card-titles">sea horse</h5>
 				</div>
 			</div>
 		</div>
@@ -97,7 +97,7 @@ export const Aquatic = () => (
 			<div className="card">
 				<img src="https://images6.alphacoders.com/419/419848.jpg" className="card-img-top" alt="..." />
 				<div className="card-body">
-					<h5 className="card-title">seal</h5>
+					<h5 className="card-titles">seal</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -107,7 +107,7 @@ export const Aquatic = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Piranha</h5>
+					<h5 className="card-titles">Piranha</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -116,7 +116,7 @@ export const Aquatic = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">bull shark</h5>
+					<h5 className="card-titles">bull shark</h5>
 				</div>
 			</div>
 		</div>
@@ -128,19 +128,19 @@ export const Aquatic = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">tiger shark</h5>
+					<h5 className="card-titles">tiger shark</h5>
 				</div>
 			</div>
 			<div className="card">
 				<img src="https://vistapointe.net/images/squid-7.jpg" className="card-img-top" alt="..." />
 				<div className="card-body">
-					<h5 className="card-title">squid</h5>
+					<h5 className="card-titles">squid</h5>
 				</div>
 			</div>
 			<div className="card">
 				<img src="https://cdn.hswstatic.com/gif/sea-snake-1.jpg" className="card-img-top" alt="..." />
 				<div className="card-body">
-					<h5 className="card-title">sea snake</h5>
+					<h5 className="card-titles">sea snake</h5>
 				</div>
 			</div>
 		</div>

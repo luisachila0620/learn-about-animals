@@ -2,15 +2,26 @@ import React from "react";
 import "../../styles/home.scss";
 
 export const Carnivore = () => (
-	<div className="card-group">
-		<div className="card">
-			<img
-				src="https://static.theprint.in/wp-content/uploads/2021/04/yawning-lion.jpg"
-				className="card-img-top"
-				alt="..."
-			/>
+	<div className="flip-card">
+		<div className="flip-card-inner">
+			<div className="flip-card-front">
+				<div className="card-group">
+					<div className="card">
+						<img
+							src="https://static.theprint.in/wp-content/uploads/2021/04/yawning-lion.jpg"
+							className="card-img-top"
+							alt="..."
+						/>
+						<div className="flip-card-back">
+							<h1>John Doe</h1>
+							<p>Architect and Engineer</p>
+							<p>We love that guy</p>
+						</div>
+					</div>
+				</div>
+			</div>
 			<div className="card-body">
-				<h5 className="card-title">Lion</h5>
+				<h5 className="card-titles">hello my name is luis</h5>
 			</div>
 		</div>
 		<div className="card">
@@ -20,7 +31,7 @@ export const Carnivore = () => (
 				alt="..."
 			/>
 			<div className="card-body">
-				<h5 className="card-title">Tiger</h5>
+				<h5 className="card-titles">Tiger</h5>
 			</div>
 		</div>
 		<div className="card">
@@ -30,7 +41,7 @@ export const Carnivore = () => (
 				alt="..."
 			/>
 			<div className="card-body">
-				<h5 className="card-title">Bear</h5>
+				<h5 className="card-titles">Bear</h5>
 			</div>
 		</div>
 		<div className="card-group">
@@ -41,7 +52,7 @@ export const Carnivore = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Wolf</h5>
+					<h5 className="card-titles">Wolf</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -51,7 +62,7 @@ export const Carnivore = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Jarguar</h5>
+					<h5 className="card-titles">Jarguar</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -61,7 +72,7 @@ export const Carnivore = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Fox</h5>
+					<h5 className="card-titles">Fox</h5>
 				</div>
 			</div>
 		</div>
@@ -73,7 +84,7 @@ export const Carnivore = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Wolverine</h5>
+					<h5 className="card-titles">Wolverine</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -83,7 +94,7 @@ export const Carnivore = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Linx</h5>
+					<h5 className="card-titles">Linx</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -93,7 +104,7 @@ export const Carnivore = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Dingo</h5>
+					<h5 className="card-titles">Dingo</h5>
 				</div>
 			</div>
 		</div>
@@ -105,7 +116,7 @@ export const Carnivore = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Comodo dragon</h5>
+					<h5 className="card-titles">Comodo dragon</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -115,7 +126,7 @@ export const Carnivore = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Hyena</h5>
+					<h5 className="card-titles">Hyena</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -125,7 +136,7 @@ export const Carnivore = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Tasmania demon</h5>
+					<h5 className="card-titles">Tasmania demon</h5>
 				</div>
 			</div>
 		</div>
@@ -137,7 +148,7 @@ export const Carnivore = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Coyote</h5>
+					<h5 className="card-titles">Coyote</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -147,7 +158,7 @@ export const Carnivore = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Mink</h5>
+					<h5 className="card-titles">Mink</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -157,7 +168,7 @@ export const Carnivore = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Puma</h5>
+					<h5 className="card-titles">Puma</h5>
 				</div>
 			</div>
 		</div>

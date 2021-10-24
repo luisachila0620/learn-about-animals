@@ -10,13 +10,13 @@ export const Herbivores = () => (
 				alt="..."
 			/>
 			<div className="card-body">
-				<h5 className="card-title">zebra</h5>
+				<h5 className="card-titles">zebra</h5>
 			</div>
 		</div>
 		<div className="card">
 			<img src="https://cdn.wallpapersafari.com/68/12/gTDxqZ.jpg" className="card-img-top" alt="..." />
 			<div className="card-body">
-				<h5 className="card-title">Deer</h5>
+				<h5 className="card-titles">Deer</h5>
 			</div>
 		</div>
 		<div className="card">
@@ -26,7 +26,7 @@ export const Herbivores = () => (
 				alt="..."
 			/>
 			<div className="card-body">
-				<h5 className="card-title">Elephant</h5>
+				<h5 className="card-titles">Elephant</h5>
 			</div>
 		</div>
 		<div className="card-group">
@@ -37,7 +37,7 @@ export const Herbivores = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Bufalo</h5>
+					<h5 className="card-titles">Bufalo</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -47,7 +47,7 @@ export const Herbivores = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Moose</h5>
+					<h5 className="card-titles">Moose</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -57,7 +57,7 @@ export const Herbivores = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Orangutan</h5>
+					<h5 className="card-titles">Orangutan</h5>
 				</div>
 			</div>
 		</div>
@@ -65,7 +65,7 @@ export const Herbivores = () => (
 			<div className="card">
 				<img src="http://lcamtuf.coredump.cx/squirrel/" className="card-img-top" alt="..." />
 				<div className="card-body">
-					<h5 className="card-title">Chipmunk</h5>
+					<h5 className="card-titles">Chipmunk</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -75,13 +75,13 @@ export const Herbivores = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">koala</h5>
+					<h5 className="card-titles">koala</h5>
 				</div>
 			</div>
 			<div className="card">
 				<img src="https://whc.unesco.org/document/147973" className="card-img-top" alt="..." />
 				<div className="card-body">
-					<h5 className="card-title">Kangooru</h5>
+					<h5 className="card-titles">Kangooru</h5>
 				</div>
 			</div>
 		</div>
@@ -93,7 +93,7 @@ export const Herbivores = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Giraffe</h5>
+					<h5 className="card-titles">Giraffe</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -103,7 +103,7 @@ export const Herbivores = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Rabbit</h5>
+					<h5 className="card-titles">Rabbit</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -113,7 +113,7 @@ export const Herbivores = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Wild boar</h5>
+					<h5 className="card-titles">Wild boar</h5>
 				</div>
 			</div>
 		</div>
@@ -125,7 +125,7 @@ export const Herbivores = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Bison</h5>
+					<h5 className="card-titles">Bison</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -135,7 +135,7 @@ export const Herbivores = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Beaver</h5>
+					<h5 className="card-titles">Beaver</h5>
 				</div>
 			</div>
 			<div className="card">
@@ -145,7 +145,7 @@ export const Herbivores = () => (
 					alt="..."
 				/>
 				<div className="card-body">
-					<h5 className="card-title">Tapir</h5>
+					<h5 className="card-titles">Tapir</h5>
 				</div>
 			</div>
 		</div>
