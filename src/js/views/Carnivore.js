@@ -2,26 +2,26 @@ import React from "react";
 import "../../styles/home.scss";
 
 export const Carnivore = () => (
-	<div className="flip-card">
-		<div className="flip-card-inner">
-			<div className="flip-card-front">
-				<div className="card-group">
+	<div className="card-group">
+		<div className="flip-card">
+			<div className="flip-card-inner">
+				<div className="flip-card-front">
 					<div className="card">
 						<img
 							src="https://static.theprint.in/wp-content/uploads/2021/04/yawning-lion.jpg"
 							className="card-img-top"
 							alt="..."
 						/>
+						<h5 className="card-titles">Lion</h5>
 						<div className="flip-card-back">
-							<h1>John Doe</h1>
-							<p>Architect and Engineer</p>
-							<p>We love that guy</p>
+							<div className="card-body">
+								<h1>John Doe</h1>
+								<p>Architect and Engineer</p>
+								<p>We love that guy</p>
+							</div>
 						</div>
 					</div>
 				</div>
-			</div>
-			<div className="card-body">
-				<h5 className="card-titles">hello my name is luis</h5>
 			</div>
 		</div>
 		<div className="card">
