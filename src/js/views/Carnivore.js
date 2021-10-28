@@ -3,27 +3,45 @@ import "../../styles/home.scss";
 
 export const Carnivore = () => (
 	<div className="card-group">
-		<div className="flip-card">
-			<div className="flip-card-inner">
-				<div className="flip-card-front">
-					<div className="card">
+		{/* <div className="card">
+			<img
+				src="https://static.theprint.in/wp-content/uploads/2021/04/yawning-lion.jpg"
+				className="card-img-top"
+				alt="..."
+			/>
+			<h5 className="card-titles">Lion</h5>
+
+			<div className="card-body"></div>
+		</div> */}
+		<div className="card">
+			<div className="flip-card">
+				<div className="flip-card-inner">
+					<div className="flip-card-front">
 						<img
 							src="https://static.theprint.in/wp-content/uploads/2021/04/yawning-lion.jpg"
+							alt="Avatar"
 							className="card-img-top"
-							alt="..."
 						/>
 						<h5 className="card-titles">Lion</h5>
-						<div className="flip-card-back">
-							<div className="card-body">
-								<h1>John Doe</h1>
-								<p>Architect and Engineer</p>
-								<p>We love that guy</p>
-							</div>
-						</div>
+					</div>
+					<div className="flip-card-back">
+						<h1>Lion</h1>
+						<p>
+							The lion (Panthera leo) is a large cat of the genus Panthera native to Africa and India. It
+							has a muscular, deep-chested body, short, rounded head, round ears, and a hairy tuft at the
+							end of its tail. It is sexually dimorphic; adult male lions are larger than females and have
+							a prominent mane. It is a social species, forming groups called prides. A lions pride
+							consists of a few adult males, related females, and cubs. Groups of female lions usually
+							hunt together, preying mostly on large ungulates. The lion is an apex and keystone predator
+							although some lions scavenge when opportunities occur and have been known to hunt humans,
+							the species typically does not.
+						</p>
+						<a href="https://en.wikipedia.org/wiki/Lion">Visit W3Schools.com!</a>
 					</div>
 				</div>
 			</div>
 		</div>
+
 		<div className="card">
 			<img
 				src="https://media.khou.com/assets/CCT/images/dc946f14-9bbd-4a44-8e72-643069adaab4/dc946f14-9bbd-4a44-8e72-643069adaab4_1140x641.jpg"
