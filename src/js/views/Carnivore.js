@@ -162,15 +162,34 @@ export const Carnivore = () => (
 		</div>
 		<div className="card-group">
 			<div className="card">
-				<img
-					src="https://www.biologicaldiversity.org/assets/img/species/mammals/Wolverine_Wikimedia_WilliamFWood.jpg"
-					className="card-img-top"
-					alt="..."
-				/>
-				<div className="card-body">
-					<h5 className="card-titles">Wolverine</h5>
+				<div className="flip-card">
+					<div className="flip-card-inner">
+						<div className="flip-card-front">
+							<img
+								src="https://wallpaperaccess.com/full/2566921.jpg"
+								alt="Avatar"
+								className="card-img-top"
+							/>
+							<h5 className="card-titles">Wolverine</h5>
+						</div>
+						<div className="flip-card-back">
+							<h1>Wolverine</h1>
+							<p>
+								The wolverine (/wʊlvərin/) (also spelled wolverene), Gulo gulo (Gulo is Latin for
+								glutton), also referred to as the glutton, carcajou, or quickhatch (from East Cree,
+								kwiihkwahaacheew), is the largest land-dwelling species of the family Mustelidae. It is
+								a muscular carnivore and a solitary animal.[2] The wolverine has a reputation for
+								ferocity and strength out of proportion to its size, with the documented ability to kill
+								prey many times larger than itself.
+							</p>
+							<a className="aa" href="https://en.wikipedia.org/wiki/Wolverine">
+								to learn more click here!
+							</a>
+						</div>
+					</div>
 				</div>
 			</div>
+
 			<div className="card">
 				<img
 					src="https://www.lavanguardia.com/files/og_thumbnail/uploads/2020/04/25/5fa90461657ef.jpeg"
