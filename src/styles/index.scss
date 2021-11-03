@@ -194,9 +194,13 @@
       font-family: 'Times New Roman', Times, serif;
       font-size: 25px;
   }
-  .card{
+  .custom-card{
       height: 350px;
   }
+  .custom-row {
+    --bs-gutter-x: 0;
+    height: 100%;
+}
    
 
 

@@ -3,7 +3,7 @@ import "../../styles/home.scss";
 import { Card } from "../component/Card";
 
 export const Carnivore = () => (
-	<div className="row">
+	<div className="row custom-row">
 		{/* <div className="card">
 			<img
 				src="https://static.theprint.in/wp-content/uploads/2021/04/yawning-lion.jpg"
@@ -40,7 +40,7 @@ export const Carnivore = () => (
 			image="https://www.bhmpics.com/download/bear_at_river_summer-1600x900.jpg"
 			link="https://en.wikipedia.org/wiki/Bear"
 		/>
-		<div className="row">
+		<div className="row custom-row">
 			<Card
 				name="Wolf"
 				description="The wolf (Canis lupus[a]), also known as the gray wolf or grey wolf, is a large canine native to Eurasia and North America. More than thirty subspecies of Canis lupus have been recognized, and gray wolves, as colloquially understood, comprise non-domestic/feral subspecies. The wolf is the largest extant member of the family Canidae. It is also distinguished from other Canis species by its less pointed ears and muzzle, as well as a shorter torso and a longer tail."
@@ -59,7 +59,7 @@ export const Carnivore = () => (
 				image="https://eskipaper.com/images/fox-wallpaper-1.jpg"
 				link="https://en.wikipedia.org/wiki/Fox"
 			/>
-			<div className="row">
+			<div className="row custom-row">
 				<Card
 					name="Wolverine"
 					description="The wolverine is found primarily in remote reaches of the Northern boreal forests and subarctic and alpine tundra of the Northern Hemisphere, with the greatest numbers in Northern Canada, the U.S. state of Alaska, the mainland Nordic countries of Europe, and throughout western Russia and Siberia. Its population has steadily declined since the 19th century owing to trapping, range reduction and habitat fragmentation. The wolverine is now essentially absent from the southern end of its European range."
@@ -81,7 +81,7 @@ export const Carnivore = () => (
 					link="https://en.wikipedia.org/wiki/Dingo"
 				/>
 
-				<div className="row">
+				<div className="row custom-row">
 					<Card
 						name="komodo dragon"
 						description="As a result of their size, Komodo dragons are apex predators, and dominate the ecosystems in which they live. Komodo dragons hunt and ambush prey including invertebrates, birds, and mammals. It has been claimed that they have a venomous bite; there are two glands in the lower jaw which secrete several toxic proteins. The biological significance of these proteins is disputed, but the glands have been shown to secrete an anticoagulant. Komodo dragons' group behavior in hunting is exceptional in the reptile world. The diet of Komodo dragons mainly consists of Javan rusa (Rusa timorensis), though they also eat considerable amounts of carrion. Komodo dragons also occasionally attack humans."

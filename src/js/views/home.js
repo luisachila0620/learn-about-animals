@@ -26,7 +26,7 @@ export const Home = () => (
 				Learn about every animal from the sea to the land and sky, and how they make up the animal kingdom!.
 			</p>
 		</div>
-		<div className="card-group">
+		<div className="card-group h-100">
 			<div className="card">
 				<h1 className="predators">CARNIVOROUS</h1>
 				<img
