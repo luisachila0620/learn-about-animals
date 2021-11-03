@@ -3,7 +3,7 @@ import "../../styles/home.scss";
 import { Card } from "../component/Card";
 
 export const Carnivore = () => (
-	<div className="card-group">
+	<div className="row">
 		{/* <div className="card">
 			<img
 				src="https://static.theprint.in/wp-content/uploads/2021/04/yawning-lion.jpg"
@@ -40,7 +40,7 @@ export const Carnivore = () => (
 			image="https://www.bhmpics.com/download/bear_at_river_summer-1600x900.jpg"
 			link="https://en.wikipedia.org/wiki/Bear"
 		/>
-		<div className="card-group">
+		<div className="row">
 			<Card
 				name="Wolf"
 				description="The wolf (Canis lupus[a]), also known as the gray wolf or grey wolf, is a large canine native to Eurasia and North America. More than thirty subspecies of Canis lupus have been recognized, and gray wolves, as colloquially understood, comprise non-domestic/feral subspecies. The wolf is the largest extant member of the family Canidae. It is also distinguished from other Canis species by its less pointed ears and muzzle, as well as a shorter torso and a longer tail."
@@ -59,7 +59,7 @@ export const Carnivore = () => (
 				image="https://eskipaper.com/images/fox-wallpaper-1.jpg"
 				link="https://en.wikipedia.org/wiki/Fox"
 			/>
-			<div className="card-group">
+			<div className="row">
 				<Card
 					name="Wolverine"
 					description="The wolverine is found primarily in remote reaches of the Northern boreal forests and subarctic and alpine tundra of the Northern Hemisphere, with the greatest numbers in Northern Canada, the U.S. state of Alaska, the mainland Nordic countries of Europe, and throughout western Russia and Siberia. Its population has steadily declined since the 19th century owing to trapping, range reduction and habitat fragmentation. The wolverine is now essentially absent from the southern end of its European range."
@@ -81,7 +81,7 @@ export const Carnivore = () => (
 					link="https://en.wikipedia.org/wiki/Dingo"
 				/>
 
-				<div className="card-group">
+				<div className="row">
 					<Card
 						name="komodo dragon"
 						description="As a result of their size, Komodo dragons are apex predators, and dominate the ecosystems in which they live. Komodo dragons hunt and ambush prey including invertebrates, birds, and mammals. It has been claimed that they have a venomous bite; there are two glands in the lower jaw which secrete several toxic proteins. The biological significance of these proteins is disputed, but the glands have been shown to secrete an anticoagulant. Komodo dragons' group behavior in hunting is exceptional in the reptile world. The diet of Komodo dragons mainly consists of Javan rusa (Rusa timorensis), though they also eat considerable amounts of carrion. Komodo dragons also occasionally attack humans."
@@ -89,44 +89,36 @@ export const Carnivore = () => (
 						link="https://en.wikipedia.org/wiki/Komodo_dragon"
 					/>
 
-					<div className="card-group">
-						<Card
-							name="Hyena"
-							description="Hyenas, or hyaenas (from Ancient Greek ὕαινα, hýaina[1]), are feliform carnivoran mammals of the family Hyaenidae /haɪˈɛnɪdiː/. With only four extant species (each in their own genera), it is the fifth-smallest biological family in the Carnivora and one of the smallest in the class Mammalia.[2] Despite their low diversity, hyenas are unique and vital components of most African ecosystems.[3]"
-							image="https://cdn.cnn.com/cnnnext/dam/assets/150107065924-ugly-safari-hyena-kenya-full-169.jpg"
-							link="https://en.wikipedia.org/wiki/Hyena"
-						/>
-						<Card
-							name="Tasmania devil"
-							description="The Tasmanian devil (Sarcophilus harrisii) is a carnivorous marsupial of the family Dasyuridae. Until recently, it was only found on the island state of Tasmania, but it has been reintroduced to New South Wales in mainland Australia, with a small breeding population. The size of a small dog, the Tasmanian devil became the largest carnivorous marsupial in the world, following the extinction of the thylacine in 1936. It is related to quolls, and distantly related to the thylacine. It is characterised by its stocky and muscular build, black fur, pungent odour, extremely loud and disturbing screech, keen sense of smell, and ferocity when feeding. The Tasmanian devil's large head and neck allow it to generate among the strongest bites per unit body mass of any extant predatory land mammal. It hunts prey and scavenges on carrion."
-							image="https://img.wallpapersafari.com/desktop/1600/900/36/88/Ft1gVj.jpg"
-							link="https://en.wikipedia.org/wiki/Tasmanian_devil"
-						/>
-						<div className="card-group">
-							<Card
-								name="Coyete"
-								description="The coyote (Canis latrans) is a species of canine native to North America. It is smaller than its close relative, the wolf, and slightly smaller than the closely related eastern wolf and red wolf. It fills much of the same ecological niche as the golden jackal does in Eurasia. The coyote is larger and more predatory and was once referred to as the American jackal by a behavioral ecologist. Other historical names for the species include the prairie wolf and the brush wolf."
-								image="https://d.newsweek.com/en/full/1563783/coyote-yellowstone.jpg?w=1600&h=900&q=88&f=00c950dfd7ef8be02b498ae51a03aff5"
-								link="https://en.wikipedia.org/wiki/Coyote"
-							/>
-							<Card
-								name="Mink"
-								description="The American mink's fur has been highly prized for use in clothing. Their treatment on fur farms has been a focus of animal rights and animal welfare[1] activism. American mink have established populations in Europe (including Great Britain and Denmark) and South America. Some people believe this happened after the animals were released from mink farms by animal rights activists, or otherwise escaping from captivity.[2] [3]In the UK, under the Wildlife & Countryside Act 1981, it is illegal to release mink into the wild.[4] In some countries, any live mink caught in traps must be humanely killed.[5]"
-								image="https://static01.nyt.com/images/2020/12/15/science/15VIRUS-WILDMINK/15VIRUS-WILDMINK-videoSixteenByNineJumbo1600.jpg"
-								link="https://en.wikipedia.org/wiki/Mink"
-							/>
-							<div className="card">
-								<img
-									src="https://cdn.britannica.com/20/93520-050-3E663489/Puma.jpg"
-									className="card-img-top"
-									alt="..."
-								/>
-								<div className="card-body">
-									<h5 className="card-titles">Puma</h5>
-								</div>
-							</div>
-						</div>
-					</div>
+					<Card
+						name="Hyena"
+						description="Hyenas, or hyaenas (from Ancient Greek ὕαινα, hýaina[1]), are feliform carnivoran mammals of the family Hyaenidae /haɪˈɛnɪdiː/. With only four extant species (each in their own genera), it is the fifth-smallest biological family in the Carnivora and one of the smallest in the class Mammalia.[2] Despite their low diversity, hyenas are unique and vital components of most African ecosystems.[3]"
+						image="https://cdn.cnn.com/cnnnext/dam/assets/150107065924-ugly-safari-hyena-kenya-full-169.jpg"
+						link="https://en.wikipedia.org/wiki/Hyena"
+					/>
+					<Card
+						name="Tasmania devil"
+						description="The Tasmanian devil (Sarcophilus harrisii) is a carnivorous marsupial of the family Dasyuridae. Until recently, it was only found on the island state of Tasmania, but it has been reintroduced to New South Wales in mainland Australia, with a small breeding population. The size of a small dog, the Tasmanian devil became the largest carnivorous marsupial in the world, following the extinction of the thylacine in 1936. It is related to quolls, and distantly related to the thylacine. It is characterised by its stocky and muscular build, black fur, pungent odour, extremely loud and disturbing screech, keen sense of smell, and ferocity when feeding. The Tasmanian devil's large head and neck allow it to generate among the strongest bites per unit body mass of any extant predatory land mammal. It hunts prey and scavenges on carrion."
+						image="https://img.wallpapersafari.com/desktop/1600/900/36/88/Ft1gVj.jpg"
+						link="https://en.wikipedia.org/wiki/Tasmanian_devil"
+					/>
+					<Card
+						name="Coyete"
+						description="The coyote (Canis latrans) is a species of canine native to North America. It is smaller than its close relative, the wolf, and slightly smaller than the closely related eastern wolf and red wolf. It fills much of the same ecological niche as the golden jackal does in Eurasia. The coyote is larger and more predatory and was once referred to as the American jackal by a behavioral ecologist. Other historical names for the species include the prairie wolf and the brush wolf."
+						image="https://d.newsweek.com/en/full/1563783/coyote-yellowstone.jpg?w=1600&h=900&q=88&f=00c950dfd7ef8be02b498ae51a03aff5"
+						link="https://en.wikipedia.org/wiki/Coyote"
+					/>
+					<Card
+						name="Mink"
+						description="The American mink's fur has been highly prized for use in clothing. Their treatment on fur farms has been a focus of animal rights and animal welfare[1] activism. American mink have established populations in Europe (including Great Britain and Denmark) and South America. Some people believe this happened after the animals were released from mink farms by animal rights activists, or otherwise escaping from captivity.[2] [3]In the UK, under the Wildlife & Countryside Act 1981, it is illegal to release mink into the wild.[4] In some countries, any live mink caught in traps must be humanely killed.[5]"
+						image="https://static01.nyt.com/images/2020/12/15/science/15VIRUS-WILDMINK/15VIRUS-WILDMINK-videoSixteenByNineJumbo1600.jpg"
+						link="https://en.wikipedia.org/wiki/Mink"
+					/>
+					<Card
+						name="Puma"
+						description="The cougar (Puma concolor) is a large cat of the subfamily Felinae. Native to the Americas, its range spans from the Canadian Yukon to the southern Andes in South America and is the most widespread of any large wild terrestrial mammal in the Western Hemisphere. It is an adaptable, generalist species, occurring in most American habitat types. Due to its wide range, it has many names, including puma, mountain lion, catamount, panther and painter."
+						image="https://data.1freewallpapers.com/download/puma-high-resolution-1600x900.jpg"
+						link="https://en.wikipedia.org/wiki/Cougar"
+					/>
 				</div>
 			</div>
 		</div>

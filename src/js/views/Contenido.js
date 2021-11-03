@@ -19,11 +19,13 @@ export const Contenido = () => (
 			<div className="row row-cols-1 row-cols-md-3 g-4">
 				<div className="col">
 					<div className="card h-100">
-						<img
-							src="https://m.economictimes.com/thumb/msid-70585794,width-1200,height-900,resizemode-4,imgsize-1098713/tiger-istock-871661426.jpg"
-							className="card-img-top"
-							alt="tiger"
-						/>
+						<a href="https://3000-violet-turkey-bica77r4.ws-us17.gitpod.io/Carnivore">
+							<img
+								src="https://m.economictimes.com/thumb/msid-70585794,width-1200,height-900,resizemode-4,imgsize-1098713/tiger-istock-871661426.jpg"
+								className="card-img-top"
+								alt="tiger"
+							/>
+						</a>
 						<div className="card-body">
 							<h5 className="card-title">Carnivours</h5>
 						</div>

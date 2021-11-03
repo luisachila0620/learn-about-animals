@@ -4,11 +4,11 @@ import PropTypes from "prop-types";
 
 export const Card = props => {
 	return (
-		<div className="card">
+		<div className="card col-4">
 			<div className="flip-card">
 				<div className="flip-card-inner">
 					<div className="flip-card-front">
-						<img src={props.image} alt="Avatar" className="card-img-top" />
+						<img src={props.image} alt="Avatar" className="card-img-top w-100" />
 						<h5 className="card-titles">{props.name}</h5>
 					</div>
 					<div className="flip-card-back">
