@@ -20,7 +20,6 @@ export const Contenido = () => (
 				<div className="col">
 					<div className="card h-100">
 						<a href="https://3000-rose-mockingbird-kl0mgjl0.ws-us18.gitpod.io/Carnivore">
-							{" "}
 							<img
 								src="https://m.economictimes.com/thumb/msid-70585794,width-1200,height-900,resizemode-4,imgsize-1098713/tiger-istock-871661426.jpg"
 								className="card-img-top"
@@ -63,11 +62,13 @@ export const Contenido = () => (
 				</div>
 				<div className="col-whale">
 					<div className="card h-100">
-						<img
-							src="https://i.guim.co.uk/img/media/4d7da2fd2eba5b69750e2c1fd5a485e9098ec187/0_174_3864_2318/master/3864.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=53cce41c79b14babaf71ce166533451f"
-							className="card-img-top"
-							alt="whale"
-						/>
+						<a href="https://3000-amber-cattle-yq7s8nqq.ws-us18.gitpod.io/Aquatic">
+							<img
+								src="https://i.guim.co.uk/img/media/4d7da2fd2eba5b69750e2c1fd5a485e9098ec187/0_174_3864_2318/master/3864.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=53cce41c79b14babaf71ce166533451f"
+								className="card-img-top"
+								alt="whale"
+							/>
+						</a>
 						<div className="card-body">
 							<h5 className="card-title">Aquatic</h5>
 						</div>
@@ -80,6 +81,7 @@ export const Contenido = () => (
 							className=""
 							alt="crocodile"
 						/>
+
 						<div className="card-body">
 							<h5 className="card-title">Reptiles</h5>
 						</div>
