@@ -19,13 +19,15 @@ export const Contenido = () => (
 			<div className="row row-cols-1 row-cols-md-3 g-4">
 				<div className="col">
 					<div className="card h-100">
-						<a href="https://3000-violet-turkey-bica77r4.ws-us17.gitpod.io/Carnivore">
+						<a href="https://3000-rose-mockingbird-kl0mgjl0.ws-us18.gitpod.io/Carnivore">
+							{" "}
 							<img
 								src="https://m.economictimes.com/thumb/msid-70585794,width-1200,height-900,resizemode-4,imgsize-1098713/tiger-istock-871661426.jpg"
 								className="card-img-top"
 								alt="tiger"
 							/>
 						</a>
+
 						<div className="card-body">
 							<h5 className="card-title">Carnivours</h5>
 						</div>
@@ -33,11 +35,13 @@ export const Contenido = () => (
 				</div>
 				<div className="col">
 					<div className="card h-100">
-						<img
-							src="https://bloximages.newyork1.vip.townnews.com/outtherecolorado.com/content/tncms/assets/v3/editorial/b/dc/bdc2a498-7123-545f-b8cb-3a2d4e5b8962/5eecdc4dd0261.image.jpg?crop=1115%2C836%2C69%2C0&resize=1200%2C900&order=crop%2Cresize"
-							className="card-img-top"
-							alt="ekl"
-						/>
+						<a href="https://3000-rose-mockingbird-kl0mgjl0.ws-us18.gitpod.io/Herbivores">
+							<img
+								src="https://bloximages.newyork1.vip.townnews.com/outtherecolorado.com/content/tncms/assets/v3/editorial/b/dc/bdc2a498-7123-545f-b8cb-3a2d4e5b8962/5eecdc4dd0261.image.jpg?crop=1115%2C836%2C69%2C0&resize=1200%2C900&order=crop%2Cresize"
+								className="card-img-top"
+								alt="ekl"
+							/>
+						</a>
 						<div className="card-body">
 							<h5 className="card-title">Herbivore</h5>
 						</div>
@@ -45,11 +49,13 @@ export const Contenido = () => (
 				</div>
 				<div className="col">
 					<div className="card h-100">
-						<img
-							src="https://i.guim.co.uk/img/media/50e3c003bba1ffb20919962de7b54db12823fdd0/0_410_6144_3686/master/6144.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=79e24df74eec3c3643e3617c28958072"
-							className="card-img-top"
-							alt="owl"
-						/>
+						<a href="https://3000-rose-mockingbird-kl0mgjl0.ws-us18.gitpod.io/Birds">
+							<img
+								src="https://i.guim.co.uk/img/media/50e3c003bba1ffb20919962de7b54db12823fdd0/0_410_6144_3686/master/6144.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=79e24df74eec3c3643e3617c28958072"
+								className="card-img-top"
+								alt="owl"
+							/>
+						</a>
 						<div className="card-body">
 							<h5 className="card-title">Birds</h5>
 						</div>
