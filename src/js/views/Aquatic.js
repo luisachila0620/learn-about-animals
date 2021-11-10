@@ -43,7 +43,7 @@ export const Aquatic = () => (
 
 			<Card
 				name="Orca"
-				description="he killer whale or orca (Orcinus orca) is a toothed whale belonging to the oceanic dolphin family, of which it is the largest member. It is recognizable by its black-and-white patterned body. A cosmopolitan species, killer whales can be found in all of the world's oceans in a variety of marine environments, from Arctic and Antarctic regions to tropical seas; they are absent only from the Baltic and Black seas, and some areas of the Arctic Ocean."
+				description="The killer whale or orca (Orcinus orca) is a toothed whale belonging to the oceanic dolphin family, of which it is the largest member. It is recognizable by its black-and-white patterned body. A cosmopolitan species, killer whales can be found in all of the world's oceans in a variety of marine environments, from Arctic and Antarctic regions to tropical seas; they are absent only from the Baltic and Black seas, and some areas of the Arctic Ocean."
 				image="https://www.bhmpics.com/download/orca_whale_love-1600x900.jpg"
 				link="https://en.wikipedia.org/wiki/Killer_whale"
 			/>

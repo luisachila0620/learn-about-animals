@@ -51,7 +51,7 @@ export const Herbivores = () => (
 		<div className="row custom-row">
 			<Card
 				name="Buffalo"
-				description="The African buffalo (Syncerus caffer) is a large sub-Saharan African bovine.[2] Syncerus caffer caffer, the Cape buffalo, is the typical subspecies, and the largest one, found in Southern and East Africa. S. c. nanus (the forest buffalo) is the smallest subspecies, common in forest areas of Central and West Africa, while S. c. brachyceros is in West Africa and S. c. aequinoctialis is in the savannas of East Africa. The adult African buffalo's horns are its characteristic feature: they have fused bases, forming a continuous bone shield across the top of the head referred to as a boss. It is widely regarded as one of the most dangerous animals on the African continent, and according to some estimates[citation needed] it gores, tramples, and kills over 200 people every year."
+				description="The African buffalo (Syncerus caffer) is a large sub-Saharan African bovine.[2] Syncerus caffer caffer, the Cape buffalo, is the typical subspecies, and the largest one, found in Southern and East Africa. S. c. nanus (the forest buffalo) is the smallest subspecies, common in forest areas of Central and West Africa, while S. c. brachyceros is in West Africa and S. c. aequinoctialis is in the savannas of East Africa. The adult African buffalo's horns are its characteristic feature: they have fused bases, forming a continuous bone shield across the top of the head referred to as a boss."
 				image="https://norwegianscitechnews.com/wp-content/uploads/2017/10/boffel-7407-1000x667-1000x667.jpg"
 				link="https://en.wikipedia.org/wiki/African_buffalo"
 			/>

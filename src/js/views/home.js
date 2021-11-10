@@ -1,5 +1,6 @@
 import React from "react";
 import "../../styles/home.scss";
+import { Link } from "react-router-dom";
 
 export const Home = () => (
 	<div>
@@ -14,11 +15,13 @@ export const Home = () => (
 			<h5 className="card-title">LEARN ANIMALS</h5>
 			<p className="intro-text">
 				Take a look at some of the most awsome animal and what makes them unique at the same time that you learn
-				about the 8.7 million species of animals.
+				about the many different species of animals.
 			</p>
-			<button type="button" className="boton1">
-				Begin Here
-			</button>
+			<Link to="/Contenido">
+				<button type="button" className="boton1">
+					Begin Here
+				</button>
+			</Link>
 		</div>
 		<div className="segundop">
 			<h1 className="segundot">Have fun while you learn!</h1>
