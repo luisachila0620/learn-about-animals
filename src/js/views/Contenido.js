@@ -77,7 +77,7 @@ export const Contenido = () => (
 					</div>
 				</div>
 				<div className="col-croc">
-					<div className="card h-100">
+					<div className="card w-100">
 						<Link to="/Reptiles">
 							<img
 								src="https://bloximages.newyork1.vip.townnews.com/fox10tv.com/content/tncms/assets/v3/editorial/e/a2/ea2cae14-96e9-11ea-be0d-b39c4d6023a5/5ebefa4babe14.image.jpg?crop=944%2C708%2C8%2C0&resize=1200%2C900&order=crop%2Cresize"
