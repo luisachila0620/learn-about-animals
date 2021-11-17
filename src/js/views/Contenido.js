@@ -101,7 +101,7 @@ export const Contenido = () => (
 							/>
 						</Link>
 						<div className="card-body">
-							<h5 className="card-title">pets</h5>
+							<h5 className="card-title">Domestic</h5>
 						</div>
 					</div>
 				</div>
