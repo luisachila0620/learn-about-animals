@@ -131,5 +131,45 @@ export const Herbivores = () => (
 				link="https://en.wikipedia.org/wiki/Tapir"
 			/>
 		</div>
+		<div className="row custom-row">
+			<Card
+				name="Sloth"
+				description="Sloths are a group of arboreal Neotropical xenarthran mammals, constituting the suborder Folivora. Noted for their slowness of movement, they spend most of their lives hanging upside down in the trees of the tropical rainforests of South America and Central America. They are considered to be most closely related to anteaters, together making up the xenarthran order Pilosa."
+				image="https://www.edgeofexistence.org/wp-content/uploads/2017/06/Bradypus-pygmaeus_2_Bryson-Voirin-1000x667.jpg"
+				link="https://en.wikipedia.org/wiki/Sloth"
+			/>
+			<Card
+				name="Rhinoceros"
+				description="A rhinoceros (/raɪˈnɒsərəs/, from Greek rhinokerōs 'nose-horned', from rhis 'nose', and keras 'horn'), commonly abbreviated to rhino, is a member of any of the five extant species (or numerous extinct species) of odd-toed ungulates in the family Rhinocerotidae. (It can also refer to a member of any of the extinct species of the superfamily Rhinocerotoidea.) Two of the extant species are native to Africa, and three to South and Southeast Asia."
+				image="https://images.unsplash.com/photo-1598894000396-bc30e0996899?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmhpbm98ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+				link="https://en.wikipedia.org/wiki/Rhinoceros"
+			/>
+			<Card
+				name="Elk"
+				description="The elk (Cervus canadensis), also known as the wapiti, is one of the largest species within the deer family, Cervidae, and one of the largest terrestrial mammals in North America, as well as Central and East Asia. It is often confused with the larger Alces alces, which is called moose in North America, but called elk in British English, and related names in other European languages (German Elch, Swedish älg, French élan). The name wapiti is used in Europe for Cervus canadensis. It originates from the Shawnee and Cree word waapiti, meaning white rump."
+				image="https://images.unsplash.com/photo-1487213802982-74d73802997c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZWxrfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+				link="https://en.wikipedia.org/wiki/Elk"
+			/>
+		</div>
+		<div className="row custom-row">
+			<Card
+				name="Antelope"
+				description="Antelope comprise a wastebasket taxon (miscellaneous group) within the family Bovidae,[1] encompassing all Old World ruminants that are not bovines, caprines, deer, or giraffes. One New World species, the pronghorn of North America, is sometimes colloquially referred to as the American antelope, but they are more distantly related to the Giraffidae family. The true antelope are the gazelle, Nanger, Eudorcas and Antilope.[2]"
+				image="https://a-z-animals.com/media/antelope-1.jpg"
+				link="https://en.wikipedia.org/wiki/Antelope"
+			/>
+			<Card
+				name="Gorilla"
+				description="Gorillas are herbivorous, predominantly ground-dwelling great apes that inhabit the tropical forests of equatorial Africa. The genus Gorilla is divided into two species: the eastern gorilla and the western gorilla, and either four or five subspecies. The DNA of gorillas is highly similar to that of humans, from 95 to 99% depending on what is included, and they are the next closest living relatives to humans after chimpanzees and bonobos."
+				image="https://www.edgeofexistence.org/wp-content/uploads/2017/06/Gorilla-gorilla_shutterstock_359923964-1000x667.jpg"
+				link="https://en.wikipedia.org/wiki/Gorilla"
+			/>
+			<Card
+				name="Camel"
+				description="A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as humps on its back. Camels have long been domesticated and, as livestock, they provide food (milk and meat) and textiles (fiber and felt from hair). Camels are working animals especially suited to their desert habitat and are a vital means of transport for passengers and cargo. There are three surviving species of camel. The one-humped dromedary makes up 94% of the world's camel population, and the two-humped Bactrian camel makes up 6%. The Wild Bactrian camel is a separate species and is now critically endangered."
+				image="https://vistapointe.net/images/camel-wallpaper-9.jpg"
+				link="https://en.wikipedia.org/wiki/Camel"
+			/>
+		</div>
 	</>
 );
