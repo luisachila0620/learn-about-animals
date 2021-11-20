@@ -158,5 +158,25 @@ export const Carnivore = () => (
 				link="https://en.wikipedia.org/wiki/American_black_bear"
 			/>
 		</div>
+		<div className="row custom-row">
+			<Card
+				name="African wild dog"
+				description="The African wild dog (Lycaon pictus) also called the African painted dog and the African hunting dog, is a wild canine which is a native species to sub-Saharan Africa. It is the largest wild canine in Africa, and the only extant member of the genus Lycaon, which is distinguished from Canis by dentition highly specialised for a hypercarnivorous diet, and by a lack of dewclaws. It is estimated that about 6,600 adults (including 1,400 mature individuals) live in 39 subpopulations that are all threatened by habitat fragmentation, human persecution, and outbreaks of disease."
+				image="https://i.pinimg.com/originals/50/cc/96/50cc96a70264bebf932c13edec945202.jpg"
+				link="https://en.wikipedia.org/wiki/African_wild_dog"
+			/>
+			<Card
+				name="River otter"
+				description="Otters are carnivorous mammals in the subfamily Lutrinae. The 13 extant otter species are all semiaquatic, aquatic or marine, with diets based on fish and invertebrates. Lutrinae is a branch of the Mustelidae family, which also includes weasels, badgers, mink, and wolverines, among other animals."
+				image="https://images.wallpaperscraft.com/image/single/otter_animal_muzzle_hair_66474_1600x900.jpg"
+				link="https://en.wikipedia.org/wiki/Otter"
+			/>
+			<Card
+				name="Clouded leopard"
+				description="TThe clouded leopard (Neofelis nebulosa) is a wild cat inhabiting dense forests from the foothills of the Himalayas through mainland Southeast Asia into South China. The first clouded leopard known to science was brought to London from China in the early 19th century and described in 1821. It has large dusky-grey blotches and irregular spots and stripes reminiscent of clouds."
+				image="https://c4.wallpaperflare.com/wallpaper/413/903/793/cats-clouded-leopard-big-cat-clouded-leopard-wildlife-hd-wallpaper-preview.jpg"
+				link="https://en.wikipedia.org/wiki/Clouded_leopard"
+			/>
+		</div>
 	</>
 );
