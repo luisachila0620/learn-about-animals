@@ -49,7 +49,7 @@ export const Carnivore = () => (
 			/>
 
 			<Card
-				name="Bear"
+				name="Brown Bear"
 				description="Bears are carnivoran mammals of the family Ursidae. They are classified as caniforms, or doglike carnivorans. Although only eight species of bears are extant, they are widespread, appearing in a wide variety of habitats throughout the Northern Hemisphere and partially in the Southern Hemisphere. Bears are found on the continents of North America, South America, Europe, and Asia. Common characteristics of modern bears include large bodies with stocky legs, long snouts, small rounded ears, shaggy hair, plantigrade paws with five nonretractile claws, and short tails."
 				image="https://www.bhmpics.com/download/bear_at_river_summer-1600x900.jpg"
 				link="https://en.wikipedia.org/wiki/Bear"
@@ -136,6 +136,26 @@ export const Carnivore = () => (
 				description="The cougar (Puma concolor) is a large cat of the subfamily Felinae. Native to the Americas, its range spans from the Canadian Yukon to the southern Andes in South America and is the most widespread of any large wild terrestrial mammal in the Western Hemisphere. It is an adaptable, generalist species, occurring in most American habitat types. Due to its wide range, it has many names, including puma, mountain lion, catamount, panther and painter."
 				image="https://data.1freewallpapers.com/download/puma-high-resolution-1600x900.jpg"
 				link="https://en.wikipedia.org/wiki/Cougar"
+			/>
+		</div>
+		<div className="row custom-row">
+			<Card
+				name="Snow leopard"
+				description="The snow leopard (Panthera uncia), also known as the ounce, is a felid in the genus Panthera native to the mountain ranges of Central and South Asia. It is listed as Vulnerable on the IUCN Red List because the global population is estimated to number fewer than 10,000 mature individuals and is expected to decline about 10% by 2040. It is threatened by poaching and habitat destruction following infrastructural developments. It inhabits alpine and subalpine zones at elevations from 3,000 to 4,500 m (9,800 to 14,800 ft), ranging from eastern Afghanistan, the Himalayas and the Tibetan Plateau, to southern Siberia, Mongolia and western China. In the northern part of its range, it also lives at lower elevations.["
+				image="https://images.wallpaperscraft.com/image/single/snow_leopard_snow_face_powdered_anger_look_57966_1600x900.jpg"
+				link="https://en.wikipedia.org/wiki/Snow_leopard"
+			/>
+			<Card
+				name="Leopard"
+				description="The leopard (Panthera pardus) is one of the five extant species in the genus Panthera, a member of the cat family, Felidae.[4] It occurs in a wide range in sub-Saharan Africa, in some parts of Western and Central Asia, Southern Russia, and on the Indian subcontinent to Southeast and East Asia. It is listed as Vulnerable on the IUCN Red List because leopard populations are threatened by habitat loss and fragmentation, and are declining in large parts of the global range."
+				image="https://images.hdqwalls.com/download/zoo-leopard-1600x900.jpg"
+				link="https://en.wikipedia.org/wiki/Leopard"
+			/>
+			<Card
+				name="Black bear"
+				description="The American black bear (Ursus americanus) is a medium-sized bear endemic to North America. It is the continent's smallest and most widely distributed bear species. American black bears are omnivores, with their diets varying greatly depending on season and location. They typically live in largely forested areas, but will leave forests in search of food, and are sometimes attracted to human communities due to the immediate availability of food. Despite the name, some subspecies can be brown or even blond in coloration."
+				image="https://d.newsweek.com/en/full/1888594/file-photo-black-bear.jpg?w=1600&h=900&q=88&f=92e97f367607d23eaa3f8205585b6930"
+				link="https://en.wikipedia.org/wiki/American_black_bear"
 			/>
 		</div>
 	</>
