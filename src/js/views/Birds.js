@@ -135,5 +135,45 @@ export const Birds = () => (
 				link="https://en.wikipedia.org/wiki/Raven"
 			/>
 		</div>
+		<div className="row custom-row">
+			<Card
+				name="Kiwi bird"
+				description="DNA sequence comparisons have yielded the surprising conclusion that kiwi are much more closely related to the extinct Malagasy elephant birds than to the moa with which they shared New Zealand.[6] There are five recognised species, four of which are currently listed as vulnerable, and one of which is near-threatened. All species have been negatively affected by historic deforestation but currently the remaining large areas of their forest habitat are well protected in reserves and national parks. At present, the greatest threat to their survival is predation by invasive mammalian predators."
+				image="https://i.pinimg.com/originals/6d/60/35/6d6035cd22e64e523c83c3d56ba17905.jpg"
+				link="https://en.wikipedia.org/wiki/Kiwi_(bird)"
+			/>
+			<Card
+				name="Hummingbird"
+				description="Hummingbirds are birds native to the Americas and comprise the biological family Trochilidae. With about 360 species, they occur from Alaska to Tierra del Fuego, but the vast majority of the species are found in the tropics. They are small birds, with most species measuring 7.5–13 cm (3–5 in) in length. The smallest extant hummingbird species is the 5 cm (2.0 in) bee hummingbird, which weighs less than 2.0 g (0.07 oz). The largest hummingbird species is the 23 cm (9.1 in) giant hummingbird, weighing 18–24 grams (0.63–0.85 oz). They are specialized for feeding on flower nectar, but all species consume flying insects or spiders."
+				image="https://wallpaperfx.com/view_image/copper-rumped-hummingbird-1600x900-wallpaper-2420.jpg"
+				link="https://en.wikipedia.org/wiki/Hummingbird"
+			/>
+			<Card
+				name="Hoatzin bird"
+				description="The hoatzin is pheasant-sized, with a total length of 65 centimetres (26 in), and a long neck and small head. It has an unfeathered blue face with maroon eyes, and its head is topped by a spiky, rufous crest. The long, sooty-brown tail is a broadly tipped buff. The upper parts are dark, sooty-brown-edged buff on the wing coverts, and streaked buff on the mantle and nape. The under parts are buff, while the crissum (the undertail coverts surrounding the cloaca), primaries, underwing coverts and flanks are rich rufous-chestnut, but this is mainly visible when it opens its wings."
+				image="https://pbs.twimg.com/media/EmAFsxIW0AAMx3z?format=jpg&name=large"
+				link="https://en.wikipedia.org/wiki/Hoatzin"
+			/>
+		</div>
+		<div className="row custom-row">
+			<Card
+				name="Golden eagle"
+				description="The golden eagle (Aquila chrysaetos) is a bird of prey living in the Northern Hemisphere. It is the most widely distributed species of eagle. Like all eagles, it belongs to the family Accipitridae. They are one of the best-known birds of prey in the Northern Hemisphere. These birds are dark brown, with lighter golden-brown plumage on their napes. Immature eagles of this species typically have white on the tail and often have white markings on the wings. Golden eagles use their agility and speed combined with powerful feet and massive, sharp talons to snatch up a variety of prey, mainly hares, rabbits, and marmots and other ground squirrels."
+				image="https://i.pinimg.com/originals/0f/06/cf/0f06cf9c2a40f877afc5d00dfd55c69d.jpg"
+				link="https://en.wikipedia.org/wiki/Golden_eagle"
+			/>
+			<Card
+				name="Flamingo"
+				description="Flamingos or flamingoes[2] /fləˈmɪŋɡoʊz/ are a type of wading bird in the family Phoenicopteridae, the only bird family in the order Phoenicopteriformes. Four flamingo species are distributed throughout the Americas, including the Caribbean, and two species are native to Africa, Asia, and Europe."
+				image="https://images.wallpaperscraft.com/image/single/flamingo_bird_color_117069_1600x900.jpg"
+				link="https://en.wikipedia.org/wiki/Flamingo"
+			/>
+			<Card
+				name="Sandgrouse"
+				description="Sandgrouse is the common name for Pteroclidae /tɛˈrɒklədiː/, a family of sixteen species of bird, members of the order Pterocliformes /ˌtɛrəkləfɔːrmiːz/. They are traditionally placed in two genera. The two central Asian species are classified as Syrrhaptes and the other fourteen species, from Africa and Asia, are placed in the genus Pterocles. They are ground dwelling birds restricted to treeless, open country, such as plains, savannahs, and semi-deserts. They are distributed across northern, southern, and eastern Africa, Madagascar, the Middle East, and India through central Asia."
+				image="https://cdn.birdseye.photo/media/resized/large/002406-109-20161130165645.jpg"
+				link="https://en.wikipedia.org/wiki/Sandgrouse"
+			/>
+		</div>
 	</>
 );
