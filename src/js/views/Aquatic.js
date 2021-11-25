@@ -133,5 +133,25 @@ export const Aquatic = () => (
 				link="https://en.wikipedia.org/wiki/Sea_snake"
 			/>
 		</div>
+		<div className="row custom-row">
+			<Card
+				name="Blue marlin"
+				description="The Atlantic blue marlin (hereafter, blue marlin) feeds on a wide variety of organisms near the surface. It uses its bill to stun, injure, or kill while knifing through a school of fish or other prey, then returns to eat the injured or stunned fish. Marlin is a popular game fish. The relatively high fat content of its meat makes it commercially valuable in certain markets. It is the national fish of the Commonwealth of The Bahamas and is featured on its coat of arms."
+				image="https://www.njmarlins.com/wp-content/uploads/sites/692/2015/04/blue-marlin.jpg"
+				link="https://en.wikipedia.org/wiki/Atlantic_blue_marlin"
+			/>
+			<Card
+				name="Catfish"
+				description="Catfish (or catfishes; order Siluriformes /sɪˈljʊərɪfɔːrmiːz/ or Nematognathi) are a diverse group of ray-finned fish. Named for their prominent barbels, which resemble a cat's whiskers, catfish range in size and behavior from the three largest species alive, the Mekong giant catfish from Southeast Asia, the wels catfish of Eurasia, and the piraíba of South America, to detritivores (species that eat dead material on the bottom), and even to a tiny parasitic species commonly called the Candiru, Vandellia cirrhosa."
+				image="https://img.wallpapersafari.com/desktop/1600/900/21/99/rHwlGa.jpg"
+				link="https://en.wikipedia.org/wiki/Catfish"
+			/>
+			<Card
+				name="Tuna fish"
+				description="A tuna is a saltwater fish that belongs to the tribe Thunnini, a subgrouping of the Scombridae (mackerel) family. The Thunnini comprise 15 species across five genera,[2] the sizes of which vary greatly, ranging from the bullet tuna (max. length: 50 cm (1.6 ft), weight: 1.8 kg (4 lb)) up to the Atlantic bluefin tuna (max. length: 4.6 m (15 ft), weight: 684 kg (1,508 lb)). The Atlantic bluefin averages 2 m (6.6 ft), and is believed to live up to 50 years."
+				image="https://d.newsweek.com/en/full/1530776/bluefin-tuna-fish-ocean-sea-getty-stock.jpg?w=1600&h=900&q=88&f=3a9b0cfee2dc3a4d0edd171f83e4503b"
+				link="https://en.wikipedia.org/wiki/Tuna#Canned"
+			/>
+		</div>
 	</>
 );
