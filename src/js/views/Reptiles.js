@@ -133,5 +133,27 @@ export const Reptiles = () => (
 				link="https://en.wikipedia.org/wiki/Basiliscus_(lizard)"
 			/>
 		</div>
+		<div className="row custom-row">
+			<Card
+				name="Poison dart frog"
+				description="Most species of poison dart frogs are small, sometimes less than 1.5 cm (0.59 in) in adult length, although a few grow up to 6 cm (2.4 in) in length. They weigh 1 oz. on average.[7] Most poison dart frogs are brightly colored, displaying aposematic patterns to warn potential predators. Their bright coloration is associated with their toxicity and levels of alkaloids. For example, frogs of the genus Dendrobates have high levels of alkaloids, whereas Colostethus species are cryptically colored and are not toxic.["
+				image="https://4.bp.blogspot.com/-ViniBR39hGk/XBOFLlngwrI/AAAAAAAAw5U/9zpQstxb0SMgH6sspSuVYh_NL3-fj2DPwCLcBGAs/s1600/frog%2Bpoisonous.jpg"
+				link="https://en.wikipedia.org/wiki/Poison_dart_frog"
+			/>
+			<Card
+				name="Frill necked lizard"
+				description="The frill-necked lizard is a relatively large member of the agamid family, growing up to 85 cm (2.79 ft).[8] It is capable of bipedal locomotion and has been described as regularly moving in this manner with a purposeful stride at times by naturalists.[9][10]
+
+				Colouration tends to be brown or grey with spots and blotches of darker colours mixed in a mottled fashion to give the appearance of tree bark.[11] There is not one standard colour: rather, colouration varies according to the lizard's environment. For example, a lizard found in a dryer, clay filled environment will most likely have a collage of oranges, reds, and browns; whereas a lizard found in a damper."
+				image="https://img.wallpapersafari.com/desktop/1600/900/29/72/CTiBqk.jpg"
+				link="https://en.wikipedia.org/wiki/Chlamydosaurus"
+			/>
+			<Card
+				name="California alligator lizard"
+				description="The southern alligator lizard measures from 3 to 7 in (8 to 18 cm) in snout-to-vent length (SVL). Including tail, it can reach a foot in length (30 cm).[4] It has a round thick body with small legs and a long somewhat prehensile tail that can be twice as long as the lizard's body.[3] Like many lizards, this species can drop its tail if attacked, possibly giving it a chance to flee. It lives on average 10 to 15 years, and survives well in captivity."
+				image="https://www.nps.gov/common/uploads/cropped_image/primary/3811768F-C569-6D02-C4FC8FBE29AA42D7.jpg?width=1600&quality=90&mode=crop"
+				link="https://en.wikipedia.org/wiki/Southern_alligator_lizard"
+			/>
+		</div>
 	</>
 );
