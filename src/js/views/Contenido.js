@@ -44,7 +44,7 @@ export const Contenido = () => (
 							/>
 						</Link>
 						<div className="card-body">
-							<h5 className="card-title">Herbivore</h5>
+							<h5 className="card-title">Herbivores</h5>
 						</div>
 					</div>
 				</div>

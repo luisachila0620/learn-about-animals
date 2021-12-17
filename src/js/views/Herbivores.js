@@ -121,7 +121,7 @@ export const Herbivores = () => (
 			<Card
 				name="Beaver"
 				description="Beavers are large, semiaquatic rodents in the genus Castor native to the temperate Northern Hemisphere. There are two extant species: the North American beaver (Castor canadensis) and the Eurasian beaver (C. fiber). Beavers are the second-largest living rodents after the capybaras. They have stout bodies with large heads, long chisel-like incisors, brown or gray fur, hand-like front feet, webbed back feet and flat, scaly tails. The Eurasian beaver has a more elongated skull with a more triangular nasal bone opening, lighter fur color and a narrower tail. The animals can be found in a number of freshwater habitats, such as rivers, streams, lakes and ponds. They are herbivorous, consuming tree bark, aquatic plants, grasses and sedges."
-				image="https://i0.wp.com/trentsizemore.com/learn/wp-content/uploads/2020/05/20200517_untitled_6231-Edit-1000x667.jpg?resize=1000%2C667&ssl=1"
+				image="https://indepth.ideastream.org/newsdepth-backpack-episode-29/assets/hoMoxt0lO2/shutterstock_1534405283-1000x667.jpeg"
 				link="https://en.wikipedia.org/wiki/Beaver"
 			/>
 			<Card
