@@ -52,7 +52,7 @@ export const Reptiles = () => (
 			<Card
 				name="Crocodile"
 				description="Crocodiles (family Crocodylidae) or true crocodiles are large semiaquatic reptiles that live throughout the tropics in Africa, Asia, the Americas and Australia. The term crocodile is sometimes used even more loosely to include all extant members of the order Crocodilia, which includes the alligators and caimans (family Alligatoridae), the gharial and false gharial (family Gavialidae), and all other living and fossil Crocodylomorpha."
-				image="http://cdn.wallpaperhi.com/1600x900/20111215/Nile-Crocodile--2-.jpg"
+				image="https://render.fineartamerica.com/images/rendered/default/flat/puzzle/images/artworkimages/medium/2/1-nile-crocodiles-sleeping-benny-marty.jpg?&targetx=-62&targety=0&imagewidth=1125&imageheight=750&modelwidth=1000&modelheight=750&backgroundcolor=A5925F&orientation=0&producttype=puzzle-18-24&brightness=406&v=6"
 				link="https://en.wikipedia.org/wiki/Crocodile"
 			/>
 			<Card
