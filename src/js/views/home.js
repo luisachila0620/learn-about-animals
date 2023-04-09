@@ -6,7 +6,7 @@ export const Home = () => (
 	<div>
 		<div className="first">
 			<img
-				src="https://www.ppt-backgrounds.net/thumbs/green-frog-animal--animals-green--ppt-template-ppt.jpeg"
+				src="https://media.istockphoto.com/id/135138016/photo/curious-red-eyed-tree-frog.jpg?s=612x612&w=0&k=20&c=s0aTy7y317SEsFP-0Q9vpfnEFrx7m2rLB-FeGLHm5bw="
 				className="card-img"
 				alt="..."
 			/>
